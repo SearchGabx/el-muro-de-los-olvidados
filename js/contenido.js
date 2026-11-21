@@ -29,7 +29,7 @@ window.SITIO = {
 
   enlaces: [
     { id: "instagram", titulo: "Instagram", detalle: "@elmurodelosolvidados", url: "https://www.instagram.com/elmurodelosolvidados" },
-    { id: "documental", titulo: "Documental", detalle: "Micro documental en YouTube", url: "" },
+    { id: "documental", titulo: "Documental", detalle: "Ver en Google Drive", url: "https://drive.google.com/drive/folders/1EUUbF0j8UNKTL6qYmZRK6pyZqMDNwEWH?usp=sharing" },
     { id: "dossier", titulo: "Dossier", detalle: "Investigación y propuesta · PDF", url: "docs/dossier-el-muro-de-los-olvidados.pdf" },
     { id: "biblia", titulo: "Biblia Transmedia", detalle: "Proceso creativo completo · PDF", url: "docs/biblia-transmedia-el-muro-de-los-olvidados.pdf" }
   ],
@@ -73,3 +73,4 @@ window.SITIO = {
 
   creditos: "Proyecto transmedia · Comunicación Social y Medios Digitales · 2026"
 };
+
